@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fusnguyen
-- 😤 I'm newbie, i trying to learn everthing i can 
+- 😤 I'm newbie, i'm trying to learn everthing i can 
 - 👀 I’m interested in anythings i can
 - 🌱 I’m currently learning JS,html,CSS,C/C++
 
